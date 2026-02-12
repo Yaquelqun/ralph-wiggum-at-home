@@ -1,0 +1,2 @@
+[T001] RAILS_ENV=test bundle exec rubocop - permission denied, skipping RuboCop check
+[T002] RAILS_ENV=test bundle exec rubocop - permission denied, skipping RuboCop check
